@@ -1,7 +1,5 @@
 
-# Sobre  
-
-Hey ho! Let’s go! Seja bem-vindo ao meu portfólio de dados. 🚀  
+# Hey ho! Let’s go! Seja bem-vindo ao meu portfólio de dados. 🚀 
 
 Meu nome é **Thiago Farias**.  
 
