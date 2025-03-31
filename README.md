@@ -1,7 +1,3 @@
-title: "Meu Portfólio de Dados"
-author: "Thiago Farias"
-output: html_document
----
 
 # Sobre  
 
