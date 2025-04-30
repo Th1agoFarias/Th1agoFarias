@@ -8,8 +8,6 @@ Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/).  
 
-⚙️ **Portfólio em construção**  
-
 
 ## Projetos
 
@@ -22,3 +20,10 @@ Ao invés de depender de um modelo previamente treinado com um grande volume de 
 💡 *Ideal para casos onde os dados mudam com frequência ou quando é necessário manter as respostas sempre atualizadas conforme os arquivos enviados.*
 
 🔗 [Link do Projeto](https://github.com/Th1agoFarias/rag-com-gemini)
+
+### 🧠 Random Forest aplicado ao OULAD – Previsão de Desistência Estudantil
+
+Este projeto utiliza o Open University Learning Analytics Dataset (OULAD) para construir um modelo de Random Forest capaz de prever a desistência de alunos em cursos online.
+
+🔗 [Link do Projeto]([https://github.com/Th1agoFarias/rag-com-gemini](https://github.com/Th1agoFarias/Random-Forest-OULAD))
+
