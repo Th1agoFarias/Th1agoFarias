@@ -21,9 +21,16 @@ Ao invés de depender de um modelo previamente treinado com um grande volume de 
 
 🔗 [Link do Projeto](https://github.com/Th1agoFarias/rag-com-gemini)
 
+
 ### 🧠 Random Forest aplicado ao OULAD – Previsão de Desistência Estudantil
 
-Este projeto utiliza o Open University Learning Analytics Dataset (OULAD) para construir um modelo de Random Forest capaz de prever a desistência de alunos em cursos online.
+Este projeto utiliza o [Open University Learning Analytics Dataset (OULAD)](https://analyse.kmi.open.ac.uk/open_dataset) para construir um modelo de **Random Forest** capaz de prever a **desistência de alunos** em cursos online.
 
-🔗 [Link do Projeto]([https://github.com/Th1agoFarias/rag-com-gemini](https://github.com/Th1agoFarias/Random-Forest-OULAD))
+A solução contempla:
+- Ingestão de dados em SQLite via JSON
+- Feature store com SQL
+- Pipeline de pré-processamento e treinamento com Scikit-learn
+- Visualização dos resultados em notebook
+
+🔗 [Acesse o Projeto no GitHub](https://github.com/Th1agoFarias/Random-Forest-OULAD)
 
