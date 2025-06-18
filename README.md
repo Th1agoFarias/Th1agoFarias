@@ -11,6 +11,16 @@ Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**
 
 ## Projetos
 
+📊 Análise de Licitações Públicas – CGU | Base dos Dados - PROJETO EM ANDAMENDO 
+Este projeto tem como objetivo analisar o mercado de licitações públicas no Brasil com base nos dados disponibilizados pela CGU e organizados pela Base dos Dados. A análise visa gerar inteligência de mercado para empresas, pesquisadores e gestores públicos.
+
+🛠️ Tecnologias e Ferramentas
+BigQuery SQL – Consulta e análise em larga escala.
+
+Python + Pandas – Manipulação e visualização de dados
+
+🔗 [Link do Projeto](https://github.com/Th1agoFarias/Analise-Licitacoes-Publicas-CGU/blob/main/cgu.ipynb)
+
 ### 🔍 RAG com Gemini 
 
 Este projeto aplica o conceito de **Geração Aumentada por Recuperação (RAG)** utilizando a **API Gemini**, com foco em arquivos **CSV** como fonte de dados.  
