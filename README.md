@@ -11,7 +11,7 @@ Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**
 
 ## Projetos
 
-📊 Análise de Licitações Públicas – CGU | Base dos Dados - PROJETO EM ANDAMENDO 
+# 📊 Análise de Licitações Públicas – CGU | Base dos Dados - PROJETO EM ANDAMENDO 
 Este projeto tem como objetivo analisar o mercado de licitações públicas no Brasil com base nos dados disponibilizados pela CGU e organizados pela Base dos Dados. A análise visa gerar inteligência de mercado para empresas, pesquisadores e gestores públicos.
 
 🛠️ Tecnologias e Ferramentas
