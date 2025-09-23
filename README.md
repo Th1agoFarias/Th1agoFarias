@@ -13,7 +13,6 @@ Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**
 - **Linguagens**: Python, SQL  
 - **Vizualizações**: Power BI, Amazon QuickSight
 
----
 
 ## Projetos
 
