@@ -8,6 +8,12 @@ Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**
 
 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/).  
 
+### 🔧 Ferramentas & Tecnologias
+
+- **Linguagens**: Python, SQL  
+- **Vizualizações**: Power BI, Amazon QuickSight
+
+---
 
 ## Projetos
 
