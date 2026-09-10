@@ -1,41 +1,105 @@
+# Hey ho! Let’s go! 👋
 
-# Hey ho! Let’s go! Seja bem-vindo ao meu portfólio de dados. 🚀 
+## Thiago Farias — Dados, Analytics e Machine Learning
 
-Meu nome é **Thiago Farias**.  
+Sou profissional da área de tecnologia com foco em **Análise de Dados**, **Python**, **SQL**, **Power BI** e **Machine Learning**.
 
-Aqui você encontrará alguns dos meus projetos na área de **análise de dados e ciência de dados**.  
-Minhas principais ferramentas são: **Power BI, SQL, Python e Microsoft Fabric**.  
+Tenho interesse em transformar dados em análises, automações e modelos que ajudem na tomada de decisão. Meus projetos exploram desde **ETL e dashboards** até **pipelines de Machine Learning**, sempre com atenção à organização do código, validação dos dados e interpretação dos resultados.
 
-🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/).  
+🔗 [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/)
 
-### 🔧 Ferramentas & Tecnologias
+---
 
-- **Linguagens**: Python, SQL  
-- **Vizualizações**: Power BI, Amazon QuickSight
+## 🛠️ Stack
 
+**Linguagens e análise**  
+Python • SQL • Pandas
 
-## Projetos
+**Business Intelligence**  
+Power BI • Amazon QuickSight • Microsoft Fabric
 
-## 📊 Análise de Licitações Públicas – CGU | Base dos Dados - PROJETO EM ANDAMENDO 
-Este projeto tem como objetivo analisar o mercado de licitações públicas no Brasil com base nos dados disponibilizados pela CGU e organizados pela Base dos Dados. A análise visa gerar inteligência de mercado para empresas, pesquisadores e gestores públicos.
+**Machine Learning**  
+Scikit-learn • classificação • pré-processamento • avaliação de modelos
 
-🛠️ Tecnologias e Ferramentas
-BigQuery SQL – Consulta e análise em larga escala.
+**Dados e pipelines**  
+BigQuery • ETL • automação e validação de dados
 
-Python + Pandas – Manipulação e visualização de dados
+---
 
-🔗 [Link do Projeto](https://github.com/Th1agoFarias/Analise-Licitacoes-Publicas-CGU/blob/main/cgu.ipynb)
+## 🚀 Projetos em destaque
 
+### 🧠 Previsão de Evasão Estudantil — OULAD
 
-### 🧠 Random Forest aplicado ao OULAD – Previsão de Desistência Estudantil
+Pipeline de Machine Learning para analisar e prever evasão estudantil utilizando o **Open University Learning Analytics Dataset (OULAD)**.
 
-Este projeto utiliza o [Open University Learning Analytics Dataset (OULAD)](https://analyse.kmi.open.ac.uk/open_dataset) para construir um modelo de **Random Forest** capaz de prever a **desistência de alunos** em cursos online.
+O projeto possui uma estrutura separada entre notebooks e código-fonte, com etapas de carregamento de features, pré-processamento e treinamento do modelo.
 
-A solução contempla:
-- Ingestão de dados em SQLite via JSON
-- Feature store com SQL
-- Pipeline de pré-processamento e treinamento com Scikit-learn
-- Visualização dos resultados em notebook
+**Principais pontos:**
+- Machine Learning com Random Forest
+- pipeline de pré-processamento e treinamento
+- organização em `src/`, `notebooks/` e `model/`
+- análise exploratória e avaliação dos resultados
 
-🔗 [Acesse o Projeto no GitHub](https://github.com/Th1agoFarias/Random-Forest-OULAD)
+🔗 [Ver projeto](https://github.com/Th1agoFarias/Random-Forest-OULAD)
 
+---
+
+### 📊 Análise de Licitações Públicas — CGU | Base dos Dados
+
+Análise de dados de licitações públicas brasileiras com foco em transformar grandes volumes de dados em informações úteis para análise de mercado e tomada de decisão.
+
+**Principais pontos:**
+- consultas e análise em larga escala com BigQuery SQL
+- manipulação e análise com Python e Pandas
+- exploração de dados públicos da CGU por meio da Base dos Dados
+
+🔗 [Ver projeto](https://github.com/Th1agoFarias/Analise-Licitacoes-Publicas-CGU)
+
+---
+
+### ⚙️ Pipeline ETL — Censo Escolar
+
+Projeto voltado ao processamento e análise de dados do **Censo Escolar**, utilizando uma estrutura de ETL com preocupação com qualidade e consistência dos dados.
+
+**Principais pontos:**
+- etapas de extração, transformação e carregamento
+- organização dos dados em camadas `raw` e `processed`
+- testes de extração, transformação, carregamento e integração
+- código organizado em módulos
+
+🔗 [Ver projeto](https://github.com/Th1agoFarias/Projeto-Censo-Escolar)
+
+---
+
+### 📈 Dashboard de Dados — AdventureWorks
+
+Aplicação interativa para análise de dados e acompanhamento de KPIs, conectando consultas SQL, processamento em Python e visualizações em dashboard.
+
+**Principais pontos:**
+- consultas SQL
+- separação entre conexão, transformação e visualização
+- cálculo de KPIs
+- aplicação organizada em módulos Python
+
+🔗 [Ver projeto](https://github.com/Th1agoFarias/Projeto-Dashboard-AdventuresWorks)
+
+---
+
+## 📚 Atualmente estudando
+
+Aprofundando conhecimentos em **Machine Learning para dados tabulares**, com foco em:
+
+- pipelines de pré-processamento
+- classificação
+- Cross Validation
+- prevenção de overfitting
+- métricas como Precision, Recall, F1 e ROC-AUC
+- escolha e interpretação de threshold
+
+---
+
+## 📫 Contato
+
+Se quiser conversar sobre dados, projetos ou oportunidades profissionais:
+
+🔗 [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/)
