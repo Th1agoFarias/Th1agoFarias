@@ -1,10 +1,14 @@
 # Hey ho! Let’s go! 👋
 
-## Thiago Farias — Dados, Analytics e Machine Learning
+## Thiago Farias
 
-Sou profissional da área de tecnologia com foco em **Análise de Dados**, **Python**, **SQL**, **Power BI** e **Machine Learning**.
+**Python · SQL · Power BI · Machine Learning**
 
-Tenho interesse em transformar dados em análises, automações e modelos que ajudem na tomada de decisão. Meus projetos exploram desde **ETL e dashboards** até **pipelines de Machine Learning**, sempre com atenção à organização do código, validação dos dados e interpretação dos resultados.
+Uso este GitHub para documentar o que estou construindo e estudando em dados.
+
+Em vez de concentrar tudo em notebooks, tento levar os projetos para **pipelines, módulos Python, SQL e validações reproduzíveis** quando isso faz sentido.
+
+Hoje meu foco de estudo está em **Machine Learning para dados tabulares**, principalmente classificação, preprocessing, Cross Validation, métricas, threshold e feature engineering.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-farias-thiagofarias/)
 
